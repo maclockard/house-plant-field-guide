@@ -1,0 +1,11 @@
+[package]
+name = "house-plant-field-guide"
+version = "0.1.0"
+authors = ["Mac Lockard <maclockard@gmail.com>"]
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "An application for viewing information on house plants in my home"
+repository = "https://github.com/maclockard/house-plant-field-guide"
+readme = "README.md"
+
+[dependencies]
